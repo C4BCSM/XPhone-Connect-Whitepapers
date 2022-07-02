@@ -9,3 +9,6 @@ Lesen Sie dieses Whitepaper, wenn Sie Ihren OnPrem Exchange Server in die Cloud 
 
 ## XPhone Connect Fe(e)deration.pdf
 In diesem Whitepaper werden die technischen Hintergründe zu XPhone Federation erklärt. Und Sie erfahren Schritt für Schritt, wie Sie z.B. eine Federation mit Microsoft Teams einrichten. 
+
+## UM Services Boost.pdf
+Die UM Dienste unterstützen jetzt gezielt einen ausgewählten XCAPI Controller. Vorher wurde immer der erste freie Channal auf dem ersten freien Controller genommen.
